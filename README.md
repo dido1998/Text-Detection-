@@ -14,11 +14,11 @@ To get started, go through the following resources:
 
 **IDE Setup:**
 
-   -**Anaconda 4.4.0** (Using the spyder IDE in Anaconda)**:** http://bit.ly/2f29DNW  
+   ..***Anaconda 4.4.0** (Using the spyder IDE in Anaconda)**:** http://bit.ly/2f29DNW  
 
-   -**OpenCV library in Anaconda:** http://bit.ly/2wAhyIq
+   ..***OpenCV library in Anaconda:** http://bit.ly/2wAhyIq
    
-   -**Python 3.6.2:** http://bit.ly/2vWgNeV
+   ..**Python 3.6.2:** http://bit.ly/2vWgNeV
 
 
 **Programming Guides**
