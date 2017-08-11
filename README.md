@@ -12,7 +12,7 @@ This is a public repository for a research project in text-detection and transla
 
 **IDE Setup:**
 
-   **Anaconda:** http://bit.ly/2f29DNW (We will be using the spyder IDE in Anaconda)
+   **Anaconda:** http://bit.ly/2f29DNW  (Using the spyder IDE in Anaconda)
 
    **Installing opencv library in Anaconda:** https://anaconda.org/menpo/opencv3
 
