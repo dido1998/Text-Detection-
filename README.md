@@ -27,5 +27,5 @@ To get started, go through the following resources:
 
    - **OpenCV Tutorial:** http://bit.ly/2vW2HKt
    
-   - **Suggested Reading:** http://www.pythonlearn.com/book_007.pdf
+   - **Suggested Reading:** http://bit.ly/2vMrBN1
 
