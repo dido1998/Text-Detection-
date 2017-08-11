@@ -6,15 +6,16 @@ This is a public repository for a research project in text-detection and transla
 
   **Primary Language:** python
 
-  **IDE:** Spyder (Anaconda)
+  **IDE:** Spyder 3.1.4 (Anaconda)
+  
 
 ***To get started, go through the following resources:***
 
 **IDE Setup:**
 
-   **Anaconda:** http://bit.ly/2f29DNW  (Using the spyder IDE in Anaconda)
+   **Anaconda 4.4.0:** http://bit.ly/2f29DNW  (Using the spyder IDE in Anaconda)
 
-   **Installing opencv library in Anaconda:** https://anaconda.org/menpo/opencv3
+   **OpenCV library in Anaconda:** https://anaconda.org/menpo/opencv3
 
 
 **Programming Guides**
