@@ -29,3 +29,4 @@ To get started, go through the following resources:
    
    - **Suggested Reading:** http://bit.ly/2vMrBN1
 
+   - **GitHub Tutorial:** https://in.udacity.com/course/how-to-use-git-and-github--ud775/?
